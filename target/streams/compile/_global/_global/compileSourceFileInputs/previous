@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.1":{"hashes":[["/Users/ali/code/IdeaProjects/Project-Euler-in-Scala/src/main/scala/Euler001.scala","020623c6fb1b1c5e89ee5c2b18555b3c610fbc7a"]],"lastModifiedTimes":[]}}]
